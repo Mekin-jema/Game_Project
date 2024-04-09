@@ -1,0 +1,4 @@
+repository "myProject@One_Step_Forward@cloud"
+  path "/"
+    br "/main"
+    co "/main"
